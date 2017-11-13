@@ -1,4 +1,4 @@
-# SEO for Courses
+# SEO for Courses (w/ Google Rich Cards)
 
 A public place to request features and report bugs for the SEO for Courses widget built for Adobe Muse.
 
